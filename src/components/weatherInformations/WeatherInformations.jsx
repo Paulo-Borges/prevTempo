@@ -2,7 +2,6 @@ import React from 'react'
 
 function WeatherInformations({ weather }) {
 
-  console.log(weather)
 
   return (
     <div className='flex flex-col justify-center items-center py-3'>
